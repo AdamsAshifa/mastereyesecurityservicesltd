@@ -1,0 +1,35 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+- title: Services
+  url: "contact/"
+
+- title: Apply
+  url: "contact/"
+
+- title: Gallery
+  url: "contact/"
+  
+- title: About Us
+  url: "about/"
+
+- title: Contact
+  url: "contact/"
+
+
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Privacy Policy
+  url: "privacy-policy/"
+
+- title: Contact
+  url: "contact/"
+
