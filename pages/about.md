@@ -40,7 +40,5 @@ Our premium services are tailored to suit broad spectrum of clientele ranging fr
  These services are provided through a proactive and preventive security approach, instant response to distress calls, constant reappraisals of security situation and identifying areas of present and potential security threats with a view to proffering solutions.
 
 
-
-
-[Contact Us](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+## [Contact Us](/contact)
 
