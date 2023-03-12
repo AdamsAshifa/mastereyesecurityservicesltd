@@ -9,9 +9,6 @@ topmenu:
 
 - title: Apply
   url: "contact/"
-
-- title: Gallery
-  url: "contact/"
   
 - title: About Us
   url: "about/"
