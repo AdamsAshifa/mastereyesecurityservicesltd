@@ -2,8 +2,8 @@
 layout: post
 title:  "Special Investigation/ Background Checking"
 author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
+categories: [ Security ]
+image: assets/images/residential.jpg
 ---
 
 Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 

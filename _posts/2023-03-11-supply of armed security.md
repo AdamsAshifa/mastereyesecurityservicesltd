@@ -2,7 +2,7 @@
 layout: post
 title:  "Supply Of Armed Security"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ Security ]
 image: assets/images/Senop-news-release-photo0D0A-15.6.2022-scaled.jpeg
 ---
 

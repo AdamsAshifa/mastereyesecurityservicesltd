@@ -2,8 +2,8 @@
 layout: post
 title:  "VIPs Security Seminars"
 author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/4.jpg
+categories: [ Security ]
+image: assets/images/8-Hour-Annual-In-Service-Training-Course-For-Security-Guards.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor
 
