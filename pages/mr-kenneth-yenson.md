@@ -9,6 +9,6 @@ comments: true
 
 **Mr Kenneth Yenson** holds a Diploma in Law, Certificate in Strategic Planning and Human Resource Management (YALI).
 
-B.Sc International Diplomacy, JPTS/ Global Wealth University.
+B.Sc in International Relations and Diplomacy. Global Wealth University.
 
 He has worked in both public and Private Sector as an Administrator.

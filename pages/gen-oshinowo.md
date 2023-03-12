@@ -3,7 +3,7 @@ layout: page
 title:  "Maj Gen O.O Oshinowo (rtd) GSS psc rcds MA M.Sc FCAI Fiips."
 author: sal
 categories: [ Biography ]
-image: assets/images/gen-oshinowo.jpg
+image: assets/images/fotor_2023-2-23_20_26_41.png
 comments: true
 ---
 
