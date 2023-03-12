@@ -7,42 +7,41 @@ comment: true
 
 ---
 
-The Team comprises of high profile individuals with integrity, visions and passion for excellence in their service to humanity. Many of them have contributed in various ways to our national development. Suffice to say that company parades a combination of highly qualified appropriately experienceand technically sound board of advisryand management team with proven track record in management, finance and industry as well as a shared value in Total Quality Management(TQM) in Service ddelivery to the advantage of our clients in terms of "value for money".
+The Team comprises of high profile individuals with intergrity, visions and passion for excellence in their service contributed in various ways to our national development. 
 
-Our premium services are tailored to suit broad spectrum of clientele ranging from:
+Suffice to say that the company parades a combination of highly qualified appropriately experience and technically sound board of advisory and management team with proven tracks record in management, finance and industry as well as a shared value in Total Quality Manaement(TQM) in Service delivery to the advantage of our clients in terms of **Value for money.**
 
-**1. Manned Guards.**
+#### Our Services include:
 
-**2. Journey Management.**
+- Security Guard for residents.
+- Schools.
+- Hospitals.
+- Shopping centres.
+- Social event venues.
+- Bodyguard/ protocol officer.
+- Tourist Guide/ Guard.
+- Security Consultancy.
+- Sale and Installation of Security gadgets.
+- General recruiter services.
 
-**3. Industrial Security Training.**
+# Clients that Uses Our Service
 
-**4. VIP's Security Seminars/public officials.**
-
-**5. Canine.**
-
-**6. Surveillance/Information gathering.**
-
-**7. Risk Analysis /Management.**
-
-**8. CCTV Cameras sales and installations.**
-
-**9. Car tracking.**
-
-**10. Human Resource Consultancy.**
-
-**11. VIP body guard.** 
-
-**12  Protocol Officer.**
-
-**13. VIP Orderly.**
-
-**14. Security drivers.**
- 
- These services are provided through a proactive and preventive security approach, instant response to distress calls, constant reappraisals of security situation and identifying areas of present and potential security threats with a view to proffering solutions.
-
-
-
+- Kado Estate FCT Abuja.
+- Best Price Golden Venture Estate.
+- FCT Abuja.
+-  DeDen Abuja.
+-  God's own plaza Abuja.
+- Strength Filed Pharmacy, Abuja. 
+- Citec Estate FCT Abuja. 
+- Gonny Pharmacy Ltd Abuja.
+- Fruitful Orchard School, Abuja.
+- AVM Gregory RTD Resident Abuja.
+- Dei Dei international building materials Abuja. 
+- God has done Estate FCT Abuja.
+- Xtoget Luxury Light Abuja.
+- Graceland international school, Jos.
+- College De Mazenod Jos.
+- Open heaven international Ministry Jos.
 
 [Contact Us](https://bootstrapstarter.com/jekyll-theme-memoirs/)
 
