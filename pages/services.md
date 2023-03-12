@@ -43,5 +43,5 @@ Suffice to say that the company parades a combination of highly qualified approp
 - College De Mazenod Jos.
 - Open heaven international Ministry Jos.
 
-[Contact Us](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+[Contact Us](/contact)
 

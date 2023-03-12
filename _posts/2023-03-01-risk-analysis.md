@@ -4,6 +4,28 @@ title:  "Risk Analysis"
 categories: [ security ]
 image: assets/images/iStock-505594614-1080x675.jpg
 ---
-This is changed. As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+## Security Risk Assessment
+Risk is a compilation of threats and vulnerabilities as they relate to specific assets.
+Master-Eye Security services, uses information collected in the field and through our
+Data partners to identify threats, vulnerabilities and security concerns, so that
+Appropriate and cost effective mitigation efforts can be designed and developed.
+
+## Threat assessments
+Understanding your security threats will help you to define 
+How to organize and prepare your security planning. Our threat assessments are
+Designed to look at specific indicators that identify threats that could impact your
+Organization’s ongoing operations. Once threats are identified, Master-Eye security
+Services creates a Design Threat(DBT) report.
+This report details the likely means and methods of identified threats. This information 
+Allows you to intelligently analyze vulnerabilities of assets.
+
+## Master-Eye Security Planning
+You need to see the big picture; you need clarity in defining short and long term plans for
+Security, fiscal requirements, phased rollout, and security performance indicators.
+Master-Eye Security has a proven process to bring your program into focus. We 
+Understand the complexities of rolling out an enterprise approach to security while 
+Justifying costs and key economizations factors.
+
+<br>
+ <a href="{{site.baseurl}}/contact"><button class="btn btn-primary">Contact Us Today</button></a>
