@@ -22,6 +22,5 @@ While manned guards are highly trained in de-escalating situations and will moni
 
  Contact us for your Manned Guarding today. For more information about our manned guarding, or any of our other security solutions, please get in touch.  We are always willing to help you to better protect your business.
  
- <a href="{{site.baseurl}}/contact"><button class="btn btn-primary">Contact Us Today</button></a>
-
+## [Contact Us](/contact)
 

@@ -27,5 +27,4 @@ Master-Eye Security has a proven process to bring your program into focus. We
 Understand the complexities of rolling out an enterprise approach to security while 
 Justifying costs and key economizations factors.
 
-<br>
- <a href="{{site.baseurl}}/contact"><button class="btn btn-primary">Contact Us Today</button></a>
+## [Contact Us](/contact)
