@@ -65,12 +65,20 @@ gtag('config', '{{site.ganalytics}}');
           .fab{
             font-size: 20px;
           }
+            @media screen and (max-width: 480px) {
+            .mr-2{
+              width: 30px;
+              height: 30px;
+              float: left
+            }
+            }
           </style>
           <img class="mr-2" src="{{site.baseurl}}/{{site.logo}}" alt="logo"> 
           {% else %}
           <span class="d-none d-md-inline-block">{{ site.title }}</span>
           {% endif %}
-          </a>    
+          </a>  
+          
           <div class="collapse navbar-collapse" id="navbarResponsive">
             
             <ul class="navbar-nav ml-auto font-weight-bold d-flex align-items-center">
