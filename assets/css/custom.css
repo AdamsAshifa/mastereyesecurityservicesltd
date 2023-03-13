@@ -873,6 +873,16 @@ pre code {
     margin-right: auto;
     margin-left: auto
 }
+.navigation-wrap {	
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 9999;
+	-webkit-transition : all 0.3s ease-out;
+	transition : all 0.3s ease-out;
+    position:fixed;
+    background:#bb7f7f;
+}
 
 @media (min-width: 576px) {
     .container {
@@ -8685,7 +8695,7 @@ small,.small {
 
 .hero {
     background: #8ccddc;
-    padding: 5rem 5rem
+    padding-left: 50px
 }
 
 @media only screen and (max-width: 1024px) {
