@@ -3,7 +3,7 @@ layout: post
 title:  "Supply Of Armed Security"
 author: sal
 categories: [ Security ]
-image: assets/images/Senop-news-release-photo0D0A-15.6.2022-scaled.jpeg
+image: assets/images/download.jfif
 ---
 
 Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
