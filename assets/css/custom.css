@@ -149,10 +149,10 @@ h3{
     .navbar-nav {
         display: flex !important;
         flex-direction: row !important;
-        padding-left: 0 !important;
+        padding-left: 5px !important;
         margin-bottom: 0 !important;
         list-style: none;
-        font-size: 10px !important;
+        font-size: 12px !important;
     }
     .navbar-brand {
         display: inline-block;
@@ -249,7 +249,7 @@ h3{
 }
 .objective > h4{
     line-height: 2 !important;
-    color: grey;
+    color: rgb(30, 30, 30);
 }
 
 #progress{
@@ -258,11 +258,11 @@ h3{
 }
 .choose-us > h4{
     line-height: 2 !important;
-    color: grey;
+    color: rgb(31, 31, 31);
 }
 .accordion-body > h4{
     line-height: 2;
-    color: grey;
+    color: rgb(30, 30, 30);
   
 }
 .accordion{
