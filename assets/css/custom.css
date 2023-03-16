@@ -126,6 +126,11 @@ h3{
     width: 900px;
     margin-left: 100px;
 }
+.location-text{
+    width: 25px;
+    color: orange;
+    font-weight: bold;
+}
 
 @media screen and (max-width: 480px) {
     .container1 {
@@ -235,6 +240,8 @@ h3{
     }
     .location-text{
         width: 25px;
+        color: orange;
+        font-weight: bolder;
     }
    .iframe{
     width: 100%;
@@ -289,6 +296,9 @@ h3{
 .services{
     margin-top: 20px;
 }
+  }
+  .texture{
+    margin-left: 50px;
   }
 .offer{
     margin: 0px 0px 500px 0px;
