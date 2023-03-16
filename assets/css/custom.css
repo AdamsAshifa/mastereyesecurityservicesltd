@@ -144,7 +144,7 @@ h3{
         -webkit-transition : all 0.3s ease-out !important;
         transition : all 0.3s ease-out !important;
         position:fixed !important;
-        
+        background-color: #c8efff !important;
     }
     
     .navbar-nav {
@@ -3886,7 +3886,7 @@ tbody.collapse.show {
     margin-right: 1rem;
     font-size: 1.25rem;
     line-height: inherit;
-    white-space: nowrap
+    white-space: nowrap;
 }
 
 .navbar-brand:hover,.navbar-brand:focus {
@@ -3900,7 +3900,7 @@ tbody.collapse.show {
     margin-bottom: 0;
     list-style: none;
     font-size: 18px;
-    padding-left: 455px;
+    padding-left: 550px;
 }
 
 .navbar-nav .nav-link {
