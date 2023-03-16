@@ -8,7 +8,8 @@ topmenu:
   url: "services/"
 
 - title: Apply
-  url: "contact/"
+  url: "http://mastereyesecurityservicesltd.great-site.net/?i=1"
+  external: true
   
 - title: About Us
   url: "about/"
