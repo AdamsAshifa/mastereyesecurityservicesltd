@@ -140,10 +140,10 @@ h3{
         top: 0 !important;
         left: 0 !important;
         z-index: 9999 !important;
-        -webkit-transition : all 0.3s ease-out;
-        transition : all 0.3s ease-out;
-        position:fixed;
-        background:#bb7f7f;
+        -webkit-transition : all 0.3s ease-out !important;
+        transition : all 0.3s ease-out !important;
+        position:fixed !important;
+        background:#bb7f7f !important;
     }
     
     .navbar-nav {
