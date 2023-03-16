@@ -130,6 +130,7 @@ h3{
 @media screen and (max-width: 480px) {
     .container1 {
         width: 100%;
+        padding-bottom: 0px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
         margin-right: Opx !important;
@@ -152,7 +153,7 @@ h3{
         padding-left: 5px !important;
         margin-bottom: 0 !important;
         list-style: none;
-        font-size: 12px !important;
+        font-size: 10px !important;
     }
     .navbar-brand {
         display: inline-block;
@@ -249,7 +250,7 @@ h3{
 }
 .objective > h4{
     line-height: 2 !important;
-    color: rgb(30, 30, 30);
+    color: rgb(30, 30, 30) !important;
 }
 
 #progress{
@@ -258,11 +259,11 @@ h3{
 }
 .choose-us > h4{
     line-height: 2 !important;
-    color: rgb(31, 31, 31);
+    color: rgb(31, 31, 31)!important;
 }
 .accordion-body > h4{
     line-height: 2;
-    color: rgb(30, 30, 30);
+    color: rgb(30, 30, 30) !important;
   
 }
 .accordion{
@@ -286,7 +287,7 @@ h3{
 
 }
 .services{
-    margin-top: 100px;
+    margin-top: 20px;
 }
   }
 .offer{
