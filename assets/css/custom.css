@@ -134,6 +134,10 @@ h3{
     .fixedButton{
         display: none;
     }
+    .texture{
+        font-size: 25px !important;
+        margin-left: 20px;
+    }
     .sample{
         width: 367px;
         min-height: 500px;
