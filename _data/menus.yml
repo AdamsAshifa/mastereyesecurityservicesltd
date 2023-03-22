@@ -4,12 +4,11 @@ topmenu:
 - title: Home
   url: ""
 
- - title: Services
-   url: "service/"
-   
+- title: Services
+  url: "services/"
 
 - title: Apply
-  url: "https://master-eye-security-services-limited.000webhostapp.com/"
+  url: "http://mastereyesecurityservicesltd.great-site.net/?i=1"
   external: true
   
 - title: About Us
@@ -17,9 +16,6 @@ topmenu:
 
 - title: Contact
   url: "contact/"
-  
-
-
   
 # Footer Menu
 footermenu:
