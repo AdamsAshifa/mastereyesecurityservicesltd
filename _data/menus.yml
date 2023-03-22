@@ -5,7 +5,7 @@ topmenu:
   url: ""
 
 - title: Login
-  url: "https://master-eye-security-services-limited.000webhostapp.com/"
+  url: "https://master-eye-security-services-limited.000webhostapp.com/admin.php"
   external: true
 
 - title: Apply
