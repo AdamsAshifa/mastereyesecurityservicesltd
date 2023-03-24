@@ -4,17 +4,6 @@ topmenu:
 - title: Home
   url: ""
 
-- title: Login
-  url: "https://master-eye-security-services-limited.000webhostapp.com/admin.php"
-  external: true
-
-- title: Apply
-  url: "https://master-eye-security-services-limited.000webhostapp.com/"
-  external: true
-  
-- title: About Us
-  url: "about/"
-
 - title: Contact
   url: "contact/"
   
