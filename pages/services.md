@@ -25,7 +25,7 @@ Suffice to say that the company parades a combination of highly qualified approp
 - General recruiter services.
 
 # Clients that Uses Our Service
-## Clients in Abuja
+### Clients in Abuja
 - Kado Estate FCT Abuja.
 - Best Price Golden Venture Estate.
 - FCT Abuja.
@@ -40,7 +40,7 @@ Suffice to say that the company parades a combination of highly qualified approp
 - God has done Estate FCT Abuja.
 - Xtoget Luxury Light Abuja.
 
-## Clients in Jos
+### Clients in Jos
 - Graceland international school, Jos.
 - College De Mazenod Jos.
 - Open heaven international Ministry Jos.
