@@ -8,11 +8,11 @@ comments: true
 ---
 
 
-BSc, War Studies-University of Baluchistan, Quetta-Pakistan. PGD-Public Administration, University ofCalabar. MA-Int'l Studies, King's College-UniversityOf London. MSc-Int'l Relations, Obafemi AwolowoUniversity. PhD (in view) **Int'l Studies-University of Jos.**
+BSc, War Studies-University of Baluchistan, Quetta-Pakistan. PGD-Public Administration, University of Calabar. MA-Int'l Studies, King's College-University Of London. MSc-Int'l Relations, Obafemi Awolowo University. PhD (in view) **Int'l Studies-University of Jos.**
 
-He served as the Commander-Special Task Force(Operation Safe Haven) Plateau State. General Officer Commanding 82 Division Nigerian Army Enugu. He also served in peacekeeping missions Under the OAU peacemaking Force to Chad. UnitedNations Verification Mission 11 (UNAVEM II) to Angola. 
+He served as the Commander-Special Task Force(Operation Safe Haven) Plateau State. General Officer Commanding 82 Division Nigerian Army Enugu. He also served in peace keeping missions Under the OAU peacemaking Force to Chad. United Nations Verification Mission 11 (UNAVEM II) to Angola. 
 
-United Nations Operation in Somalia II (UNOSOM II) Somalia. He was member ofThe Military Assistance Training Team (MATT) to Equatorial Guinea and a member of the planning Committee, Multinational Peacekeeping Exercise(EXKOMPIENGA) to Togo.
+United Nations Operation in Somalia II (UNOSOM II) Somalia. He was member ofThe Military Assistance Training Team (MATT) to Equatorial Guinea and a member of the planning Committee, Multinational Peace keeping Exercise (EXKOMPIENGA) to Togo.
 
 Chairman, Working Group for the Establishment of The National Commission for the Control of Small Arms and Light Weapons. He earned the GrandService Star (GSS), Pass Staff College (psc).
 
